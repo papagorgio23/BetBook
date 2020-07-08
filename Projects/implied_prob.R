@@ -1,6 +1,6 @@
 #' Implied Probability of Winning (American Odds)
 #'
-#' @param odds
+#' @param odds American Odds of the bet
 #'
 #' @return Implied probability of winning or the "Break Even" percentage
 #' @export
